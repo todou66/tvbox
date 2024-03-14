@@ -1,10 +1,14 @@
-//土豆整理
-
 {
-"wallpaper":"./t/",
-"spider":"","warningText":"提示:
-📢 大人接口私聊
-📢免费长期维护",
+  "sites": [
+    {
+      "key": "📢加Q516868928",
+      "name": "豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
 
 {"key":"豆瓣2","name":"📢加Q516868928","type":3,"api":"csp_Douban","searchable":0},
 {"key":"豆瓣1","name":"📢公告❤更新:3/15❤"
