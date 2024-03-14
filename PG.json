@@ -2,7 +2,7 @@
   "spider": "https://d.kstore.space/download/7923/pg.jar",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "QQ516868928",
       "name": "豆瓣",
       "type": 3,
       "api": "csp_Douban",
