@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "meowtv_dbtj",
-      "name": "豆瓣┃推荐",
+      "name": "QQ┃516868928",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -11,7 +11,7 @@
     },
     {
       "key": "meowtv_ngys",
-      "name": "南瓜┃影视",
+      "name": "关注┃影视",
       "type": 3,
       "api": "csp_NanGua",
       "searchable": 1,
@@ -21,7 +21,7 @@
     },
     {
       "key": "meowtv_Mmys",
-      "name": "萌米┃影视",
+      "name": "更新┃影视",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -31,7 +31,7 @@
     },
     {
       "key": "meowtv_jlys",
-      "name": "九六┃影视",
+      "name": "加Q┃影视",
       "type": 3,
       "api": "csp_Cs1369",
       "searchable": 1,
