@@ -1,66 +1,66 @@
 {
-"spider": "./xmbjm.jar",   “蜘蛛”:“。/ xmbjm.jar”,
-"lives": [{"name": "live","type": 0,"url":"https://pastebin.com/raw/r3rwVPbb","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],“生活”:[{“名称”:“住”,“类型”:0,“url”:“https://pastebin.com/raw/r3rwVPbb”,“epg”:“http://epg.51zmt.top: 8000 / api / diyp / ?ch ={}名称和日期={日期}"},
+"spider"
+[{"name"0}][{03518000{}{}}
 
-"sites":[   “网站”:(
+"sites"[
 
 	    {
-      "key": "js豆瓣",
-      "name"   “名称”: "🐼┃QQ┃【关注516868928】🐼",
-      "type": 3,   “类型”:3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 0,   “搜索”:0,
-      "quickSearch": 0,   “快速搜索”： 0，
-      "filterable": 1,   “滤过性的”:1、
-      "ext": "./lib/douban.js"
-    },   }，
-{"key":"csp_Nmys","name":"🐼时光┃农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nmys.json"},
+      "key"
+      "name""🐼┃QQ┃【关注516868928】🐼"
+33
+      "api""./lib/drpy2.min.js"
+00
+00
+11
+"./lib/douban.js"
+    }}
+{"key"3111}
         {
-            "key": "南瓜",
-            "name": "🐼时光┃南瓜",
-            "type": 3,   “类型”:3,
-            "searchable": 1,   “搜索”:1、
-            "quickSearch": 1,   “快速搜索”： 1，
-            "api": "./lib/drpy2.min.js",“fire”： “./lib/drpy2.min.js”，
-            "ext": "./lib/南瓜.js",
-            "changeable": 0
-        },   }，
-        {"key":"csp_77","name":"🐼时光┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+            "key"
+            "name""🐼时光┃南瓜"
+33
+11
+11
+2
+            "ext"
+0
+        }}
+        {3111}
             {
-      "key": "Lezhu",   “key”： “乐竹”，
-      "name": "🐼时光┃乐猪",
-      "api": "csp_XYQHiker",   “api”:“csp_XYQHiker”,
-      "type": 3,   “类型”:3,
-      "filterable": 1,   “滤过性的”:1、
-      "quickSearch": 1,   “快速搜索”： 1，
-      "searchable": 1,   “搜索”:1、
-      "ext": "./lib/乐猪.json",
-      "jar": "./lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
-    },   }，
+      "key"
+      "name""🐼时光┃乐猪"
+      "api""csp_XYQHiker"
+33
+11
+11
+11
+      "ext"
+"./lib/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
+    }}
     {
-      "key": "csp_XBPQ_haoxi",   “key”： “csp_XBPQ_haoxi”，
-      "name": "🐼时光┃好戏",
-      "type": 3,   “类型”:3,
-      "api": "csp_XBPQ",   “api”： “csp_XBPQ”，
-      "searchable": 1,   “搜索”:1、
-      "quickSearch": 1,   “快速搜索”： 1，
-      "filterable": 1,   “滤过性的”:1、
-      "ext": "./lib/好戏影视.json"
-    },   }，
+      "key"
+      "name""🐼时光┃好戏"
+33
+      "api""csp_XBPQ"
+11
+11
+11
+"./lib/好戏影视.json"
+    }}
         {
-      "key": "csp_KungFu404",   “关键”:“csp_KungFu404”,
-      "name": "🐼时光|阿里设置",
-      "type": 3,   “类型”:3,
-      "api": "csp_KungFu404",   “api”： “csp_KungFu404”，
-      "searchable": 1,   “搜索”:1、
-      "filterable": 0,   “滤过性的”:0,
-      "changeable": 0,   “多变”:0,
-      "jar": "./jar/alibaba.jar"
-    },   }，
-{"key":"玩偶哥哥","name":"🐼时光|玩偶哥哥4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},{"key"   “关键”:"玩偶哥哥","name"   “名称”:"🐼时光|玩偶哥哥4K","type"   “类型”:3,"api"   “火”:"csp_WoGG"   “csp_WoGG”,"searchable"   “搜索”:1,"quickSearch"   “快速搜索”:1,"changeable"   “改变”:0,"ext"   “ext”:"http://127.0.0.1:9978/file/tvfan/token.txt 4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+404
+      "name"
+33
+404
+11
+00
+00
+
+    }}
+{3110}{3110}
   {
-      "key": "玩偶内置",
-      "name": "🐼时光| 玩偶T4",
+
+      "name"
       "type": 4,   “类型”:4
       "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
       "searchable": 1,   “搜索”:1、
