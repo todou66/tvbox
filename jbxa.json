@@ -1,11 +1,11 @@
 {
- "spider":"https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/spider.jar",
+ "spider":"https://gitee.com/bbstudou/tvb/blob/master/spider%E5%B0%8F%E7%99%BD.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "sites": [
   
      {
-      "key": "豆豆",
-      "name": "豆瓣小白龙",
+      "key": "牧哥",
+      "name": "🌕公众号【京宝小爱更新】",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
