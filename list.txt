@@ -1,5 +1,5 @@
-公众号:京宝小爱,#genre#
-
+京宝小爱,#genre#
+CCTV1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 央视频道,#genre#
 CCTV1,http://61.136.67.238:50085/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://111.161.149.182:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
