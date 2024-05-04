@@ -1,130 +1,299 @@
+
+
+央视-卫视,#genre#
+CCTV-01 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV-02 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV-03 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV-04 中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV-05 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV+5+ 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-06 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-07 国防,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-08 电视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-09 纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV-12 社会,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV-16 奥林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV-17 农业,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8#http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
+云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+甘肃卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8#https://hls.gstv.com.cn/49048r/6e1sy2.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
+陕西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
+辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+新疆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
+西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+河北卫视,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhjVmpsU01yZVdDQTlGSkdLVWMzeUhvMXZzRE5WVm1Ecit5NHI4QTRqN3JCRzVTajcyb1lVSjBrSzVzRC8zUGxNPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+河北卫视,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3ZnpNeWlVUGN6bjB3ZGlVTlFiUjJPYkZiYUJSSlc1M0I2cVNVbFlxcElhdlNIWHBZalZseVJtUWVnT2VsSW9GdjlBb1U5cXUvcVZ5aFJOaEhwYzVGYjVqN21YcUF3TWljWHNiNmxiTlhVQzN1UT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+河北卫视,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmR6TXlKS1RDbHdReEY2cmJRbnBTc0JNRUVxWUcvcGxrN2k2QjhPd21RTGp6T0FucGEyS0NrRQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+河北卫视,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUxrZXNiRDlNVCs5V2lRSURnaW5peXd5MDRpSWh0aVdTV08vbDk1UTdaQmRaUzJQcldFWkhLWVdaNkZIdDRxWjB3PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+河北卫视,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3ZndySlhLNkpPR292YjBPMldrVG1xRlFVRUZKY1NhaUlXUXo3a0M1UGFrS1huZENweWVNT1M2U3hkQVN4UGt0dVpzPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+延边频道,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+
+
+
+
+
+央视IPV4,#genre#
+
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMGhwSFl3WVBPL2dsUU5kNlBrMWoybXFycjNTM3FOVlB3PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnovZjVtWExmNWNON05MSEtKVS9OeDN1TWEzTEhEOHBQYWJHemRyRm1rbjgxSXlFWWc0SWJkZzRsT1c4a0t0a2N2eHR6WnJiTlhnUUpxUk1wYjg1eG1laUV0dWN1MDVwbGc9/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Zno1ZEpWQ0dRc0tzZ3J2QjV2YjgxMDU4VDQ5YTY4WWFnTTNDR2dDZGV5emoyV1haNjVzMmhDbDN0VHhoQ3RLUmVJPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnkzVmtoN09tUkd6NkNRYUsvSWRZcDlZU1g2Rk85ZWZPRHI5bkJLQ3NadUlXSlluSkgzM0RsWWk0K2l4dURWbkc0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLy9vNW4xM3YyczZ6WlhJWGdZVTZZcHc3TFZuZE1rU0JrNVViWEdzMjRsUWh4RUc0SFl2T2NFNjRpbjdJbHByTzdFPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0QxNWZobmxSTjFiTUcybk9rSjR1THZJRkIzZHFzQnRKQ1JkeDlGckNsT0ZiSTBFRWdEenU3UWRDcnVJRDkwM2Ivem1VRHVzR1I0RnRwclNPNnBDaDdSRzR6SlRoL3dqVENjTmZxeEtSV0FoQT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnlTQytDNXZlQ2pGSW1GbjZCWWtYeTR3K0FnQXd1RGVKQ0J6b3puWDhJZWR6eW15VTRKaityVg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M085ck5Yei9EYWJxVHJJM0xPOXpyeEVzPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-1 综合,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dlUwN0RTT2lrcHV0QXdDZjAzbGdPbjhtRW5ZWEpkTHhxZnYvdE14cXgxWmd6eGtBQ0QxWTVYUkJhVElmVlhEaDZFb2pOR1RGTEpjPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YXpscVVTQW9JbXk2VjIxUG1BNSs1Q2hKQ1owa0t0S1d3d1EzekkyMWRHV2VLeEdXR3NQN0dqNElUT3Njbit2cHI3a2lDZ25JODdtTEdKbmpVNCtqeHRPdGxOTTRWWnRUdkxKLzd2NmJJL3c9/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YXpscVVTQW9JbXk2VjIxUG1BNSs1QVFYWVJTdXBaNEdGM1V0R21lN094THNhSFZkSXY0bkZ2OTA1OFUzVHZtN1NzR0t4ZlptOFhWKzJQbEtEYkdzbjNvd3lHSnFJS25ubjhCeVRRcHk1WkRvRGx4ZUE4aEdkQT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhyRnIrV0M3OVRGSFkzWm1FK00vT1dlTGVoZjZld1BXUEtjbUVVbW96MGlwZzZTeU94anA1WA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czRrdkhGKzROUS9lS3Q3NzFJMUVwVi82S2NHQnFlbmZHcm0veDRIRENEYi9EdW1NT21BOVhkRlZQOUFlMTlaVDc4PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Znpta1NTM0ZqVktsOUNuc1BrcWtCOWdGZzIra1V1S2ZkY3RwVHJOUUdSczFMeXRPems3bWFKZnM5WnlKK21hWlpnPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczVoSjZmZGcrRkp1M0VNZ3FTbE9OMTZNWm13M3Q2WUE0M2h2VVhCSHA0cjlRVkliZkZtTDVnWg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczVMY2psZG9qdmw4V3VQeE1LdUwxTklwRENYY045VW8wSjhUM2ptaStTQ3dabHU1MlE0V1BDelFMby9CMys1K1RnPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjJycCtQYzlzSm1YMVcxRGtCL24yVHJHSFBBR3Z3UXRqYjZlTkpDS3ZrSmwyQzVyUWZaRkluTWZTOVVMUGpHYVY0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-2 财经,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dlUwN0RTT2lrcHV0QXdDZjAzbGdPbjhtRW5ZWEpkTHhFRnRCRCtSc3pMUzJMelRHNnBPd0o0RGNSZ3N5cUJqUEprYkpOaGROandRPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndnL2xVMWJFSGNKQ1Q4Rm9ubXphUEhqeGNibjJ3YzdFOXpOZXZKNnBkQXkvNDFhSmREQ2Z1aXZQMXpNemZGMEhlM1RWOXZ0ei9ibjQxRHV1ZkdOajZYaWdiaHJJUzg5NURSeE9NdXkyRzBNdz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Zno1ZEpWQ0dRc0tzZ3J2QjV2YjgxMDU4VDQ5YTY4WWFnTTNDR2dDZGV5emo5SlpxWDdPM0lHd1l6TElWUnEyUjN3PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-3 综艺,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzkzQ2M5TTJkMlZySDFwWkdweS94WUROdU1zaGhsbHNsNnNyOU1pb25HLys5dXBsTENENS9WL21Lc0MrZldzTHdRPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmR6TXlKS1RDbHdReEY2cmJRbnBTc0JaT1licHdSNGtRV3ZJU25Wc2hhOEtXRGJYc3JLaDBNcA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RCd3NiMGxUSmJ3WFM2a0tITFpnWWVTRy9WTnVHNGNKZktZUURGYnJ0K25teklzajgwY0JiU3pLckt6c1BiSmk3QUhWbGo0Ty9vMHc9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qngvd24zYWV4anVaaEszREdHUUs2enFqZXkvdGxsZkxockRiUkovQXB3S3lrZDkwM3h0WEtDdVNyL0REU0VZSXpNPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndxNEREOE4wTGM4SDRJNDUvMkVZQUpMY04zandBcWlkSkRLa3BnWnNXTEZZQmZ0dVFJMkhNKys3bmJJemdzQ3Z3PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndxNEREOE4wTGM4T241aEdXYStvZUdnVkdXUlBTNm94dysvczY1dTY4K21SZFlqakszOXdHdVZ2S1lNVlBHWGRFPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3JrQ1dhZTV0N1FCZm1vei9McHh1NVplT0tYWVRMOUhadkVaL3FCd3FFSk0wOVlxM3pKRXZTWHk3cDFYZ1c5TnhnMFA2M3UvYXVKellGMWp6S1pJaWgz/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmR6TXlKS1RDbHdReEY2cmJRbnBTc0JaT1licHdSNGtRWDBTODZ3V041K2N6Tkk0dHpaayt2Vw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-4 中文国际,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Zno1ZEpWQ0dRc0tzZ3J2QjV2YjgxMDU4VDQ5YTY4WWFnTTNDR2dDZGV5emp6VWVHQndMVXlBRHZzelBacDBwRE1rPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-5 体育,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M08zMm51ajR5bFNVbWh1dXNCeEE5Yk5FPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5 体育,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3JrQ1dhZTV0N1FCZm1vei9McHh1NVplT0tYWVRMOUhadkxIR0RBcG13ODMyYi9qamV3OURlcUhVay9PUm0raGN3YjFNUm5iQjF5aDVjTVUveXlndVlU/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5 体育,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndxNEREOE4wTGM4QXN1Y3FaYVR5bFYzRlIzRkt2eDErMkVDajFwWW5CSTRJc3RGbzJOZ3JFdkZrdHJRK0UyMnE1QUg0YWRhbXU1VjJsWjkyKzI1ck04UlhSeTJlNEtXdktXcjF6Z1kxOVFFZz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5 体育,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk5VkVCdVBZdkZqVXM5SEdRRXROSkxKemIrbElyQ3dTMzN6VGwwVm11cm5YOXlyYmpINEVHag==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5 体育,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczVoSjZmZGcrRkp1M0VNZ3FTbE9OMTZNWm13M3Q2WUE0M3pJT25SYmNFSEZHaGJWcDZYZFo0MA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5 体育,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndxNEREOE4wTGM4TmgzVThrMzlUcWxDS2p1dVhCOTluU3RTc0dBSXEvbUVWNzZhNStYNDJVUnR0cTVLN0VMYi9NbXZSTkMwTk5IdDY5YUZIVnpGUDBtQWN2T2txS3V0ZTdsNW9oQUh5UGtDUT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5 体育,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkplNEtYK1F1N0dWWHhHa2t3V1J4NWVIK3BSSHJPRjQ4aA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RCd3NiMGxUSmJ3WFM2a0tITFpnWWVTRy9WTnVHNGNKZktZUURGYnJ0K25oRDNOd3R0WWMrbW9ZekxMQVVpRlhod0t2Q3A2d1JZQkE9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhMK0Nhbjltc0RVbis5TE5vbXZ2M3hRV3hJMkV6MDNDZElxVVVTWTYzZ1VSZE1SSElmbDcvcjF4WkQzSjgyWVBHY1hPMTJURklYQVlOdTBqenZpQzhGMm9oTXRJWDBGaWUxZ0xsOEFFNE04UT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhIREJQU2pxdnFhNzlzMzU4TDd1SG9GNGw1R21hS2pXYWtGN1A0U1FlZktvbDJvWjFxMHVEK1hWRHNiRG5McTI3S1NMd09xdnc2c1FMb3lyL1ZhVGd4WUFCRTB6WTVWYllaMnljUGY0M3JDdz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M084S2RzcjNka1dCclNzbDhtMENWSWNvPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnkzVmtoN09tUkd6NkNRYUsvSWRZcDkwSDB3MW9vNXMwYklveGZTVm5rUEV0NmN0bS9xRmkzZVdBL2RiMlZ5cWl3PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUxrZXNiRDlNVCs5V2lRSURnaW5peXd5MDRpSWh0aVdTV08vbDk1UTdaQmRhSmlKRG54Wk9FTQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZjQXR3eXVjUzZBeWphdFBVNU9vZlpHVFZHclNrM0hqL3lYZTFYNjRCMHk0RmNNUHllT2k1R1pzNmkzcUVhQ05ka1RDQ01mYkpjYy9abFFReUNNcTBa/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-5+ 体育赛事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkprb2RiRy9XZjNORFZ6Tkt2ZlVld29RMkxIZEhMNUdBQg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RUaTFheHB4OUtXclNpZUxaZFZqM0s0VldSNVlvd3RlU0ZoTzVYanZGYzA5UUlwM1RyekxwNFNXMlI3eC9SSFhRQkZsQmpnbVV6UUE9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TVFPam95bHRwWkRGd2xUK1J6UlBRTzd1N2FJb0tvZkpGbmZHWVdMSzNRcTVoQUlwY2xaYjEyVy9ZTGl4eUl4UXlDVU1tcWR2Q3hPalg0RCtLbHlEM0E9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnh5TURqSjdZZkJQTGl0Zzg4QmlqRDNpRXBWS1JjUTlaZHJLSUt6MUhvL21iKzkrMEp1S25lcg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3NlSyt0cHJmSTJSZytpcjcyckxJZEFFam9hazF1TjR5b2krYUJVSkNYUi9aaFd3SW5VNThlVXVDK3ovWHMwSHBnPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUxrZXNiRDlNVCs5V2lRSURnaW5peXd5MDRpSWh0aVdTV08vbDk1UTdaQmRXbDNlUmpQSmdnL0lJQnJMY1lTZmpNPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMGhwSFl3WVBPL2dtOFdYS2p4aUpLL1NvalNsS1NuN2xrPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhyRnIrV0M3OVRGSFkzWm1FK00vT1dNbVh2Y1VUeFQwS0Z4ZWJNU0l4cDhqMzZKTjVYamVHKw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUtjWS9tUWhMcCtITGl2VS9CYTdURTVBWHF2djYyWkFrVzQ2UnlKNXloM2NPd25uWDQ0N0JrOHV0N2pONUkvRk5RPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-6 电影,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLy9vNW4xM3YyczZ6WlhJWGdZVTZZcHc3TFZuZE1rU0JrNVViWEdzMjRsUWh5bk9HbmNXRGFqMnkvd3ZGbFJvcUdrPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-7 国防军事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/VjVmVTZRTEZuK3RYRW1tcVZPZlFQQks2UERmMVg4THdqclRPQ3huTFVUSy9rODdZWldwSDk3RFRTeXVUd1lMWnhDWnkzVzhvbnM4PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-7 国防军事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUtjWS9tUWhMcCtITGl2VS9CYTdURTVBWHF2djYyWkFrVXBMWmdQZ0ZvTjkrdXF0Ri9vT0k3c1l1SmtTZFdFMkhnPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-7 国防军事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/aENpNEFMZ1BwWXpiaFNUM0MrNzB3ZC9ZZmptQTdiZlVmQlVZN2NsNVVWU3VCeC9qemRoK1pqZkU5Q1BxN1A1NEs4eEk3Ym9vZndQd2J5VGxROXFFZHgvOWVZdXNHaG8w/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-7 国防军事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUxrZXNiRDlNVCs5V2lRSURnaW5peXd5MDRpSWh0aVdTV08vbDk1UTdaQmRZaXp3eSt2a3dUYQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-7 国防军事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZjQXR3eXVjUzZBeWphdFBVNU9vZlpHVFZHclNrM0hqL3lYZTFYNjRCMHl5alJ0NE5xTGNwanZlVTJZbWpnWFMvVVJMUXlnbU1tUUJaQ3ErYnE1UHhU/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-7 国防军事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnlUSWZpTmtBbWFLMXVDZytrNUUySEZaMVl0UUkvTnB3RmhpQ0o5ZDR3ZXRlRGhHVkowT2R6YmZmdk1Xc1dqZDV1bm1MOVhoOEFjNUFjYnJ3dnRrd1grd2ZHR0ZldTcrZHBLK3FxRjFUZVNQdz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-7 国防军事,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMmVEZjRtWS9memN3aWhpZkpMS1lkOUVYbmkxNk9uaTBJY1JPZkV3T2FHV3ovVG9VUXhpSkpX/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-8 电视剧,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNZNm9lUDBwYTJwZ2xlQmlwVnJLZGZmSlBJWjVZZ0xVRg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-8 电视剧,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3ZndySlhLNkpPR292YjBPMldrVG1xRlFVRUZKY1NhaUlXUXo3a0M1UGFrS1hsblJhcmhVSndyNzlRZDB6dDBSR2RrPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-8 电视剧,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M08wMXhLUUVMN3NWVjFvMVZnYmdGbXEwPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-8 电视剧,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3NlSyt0cHJmSTJSZytpcjcyckxJZEFFam9hazF1TjR5b2krYUJVSkNYUi9jQXNNajY2aDdNSUJ1WnpOOFE5VmpBPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-8 电视剧,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndnL2xVMWJFSGNKQ1Q4Rm9ubXphUEhqeGNibjJ3YzdFOXpOZXZKNnBkQXkvM2VwdUllMFhKKzN2Q2JXeG9rVVY2ajhZUmRWUzN0aEdQRGp5bnVxQXJaYWpqL1RMV3FNZE1rZTROUG5MRWpCdz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-8 电视剧,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLy9vNW4xM3YyczZ6WlhJWGdZVTZZcHc3TFZuZE1rU0JrNVViWEdzMjRsUWg5bHlTMlpuMjlUa1diaitCcmlsd0trPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-8 电视剧,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnovZjVtWExmNWNON05MSEtKVS9OeDN1TWEzTEhEOHBQYWJHemRyRm1rbjgzRERxMHRLejlRTmtMUk1QZUtCci95enE2ZDZ4Tlk5UEl5VEI3SUJ5UllZZHI0eDcrMCtwaWs9/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-8 电视剧,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczVoSjZmZGcrRkp1M0VNZ3FTbE9OMTZNWm13M3Q2WUE0MER5QzEvVUhRQURtZTRNSUtIc3J0VA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RUaTFheHB4OUtXclNpZUxaZFZqM0s0VldSNVlvd3RlU0ZoTzVYanZGYzB4VE80TUl6M2RCTGJuQWtqM0dMQXozZU5OVVdUU0p0V0E9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnovZjVtWExmNWNON05MSEtKVS9OeDN1TWEzTEhEOHBQYWJHemRyRm1rbjg0bXRCckRyZXBLcGd2cG00bDdhOUlhVUU4L3ZVMmNadndpVmJXa2JDUGRQNCtRSUZqY3J1T2c9/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczVoSjZmZGcrRkp1M0VNZ3FTbE9OMTZNWm13M3Q2WUE0Mm1hWFB1b2hkOVhlOXlkb09lU2Zpag==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk2SnVaYW5YT1diVkY1YzJwZE5pNndNUkpkS3Y1ckZ4YUVjZHF0TWorRWtaNzFPYUFCSW1sMA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmR6TXlKS1RDbHdReEY2cmJRbnBTc0JaT1licHdSNGtRV2E1aHdYdEpleUJ4dURHZlJReU1ybw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczVMY2psZG9qdmw4V3VQeE1LdUwxTklwRENYY045VW8wSjhUM2ptaStTQ3dWOXZHSExkb0ZiYWc3Y210SFkzYVVnPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndnL2xVMWJFSGNKQ1Q4Rm9ubXphUEhqeGNibjJ3YzdFOXpOZXZKNnBkQXk4OGdVdHkxeWQweXM5RXM3YzJicVZmTDVTVTZlMkZueUl1THVHdWxUVjQvZGdDRW1ZWGM2NUVxQUVsME5KR000QT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnh5TURqSjdZZkJQTGl0Zzg4QmlqRDNWb1pSaTBMejcrWFM0NEFrM2x3anFvV1RhRCsrVkllNw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-9 纪录,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnlUSWZpTmtBbWFLMXVDZytrNUUySEZaMVl0UUkvTnB3RmhpQ0o5ZDR3ZXRTYSs1akdSZG8yL2pMWEJJUnUzeno2UGpOZm95NGg3MHlmaHV2MzdNN2RwdzAxZExpalplWDE3dTkwd0VMdjhhZz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M096TzRpRUYvbHdCTmRYWnYycmcwR1U0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnpIdGd1LzNyMHM4c1hiLzl0RWk4YlU3b25NUWhPOFBtUWdNSTlWVlFWL1R6QmJuTTM1NytLVFYwVEtSYjZGN3N2MWhiYnNVMEdobFZMSnNpSmFYUHJPQ2FtM3dqc3YvM3VuaU9TWE01NmhyUT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNZNm9lUDBwYTJwanZPYTR2L1Nrc3RHYXZkMkxSS214Sw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3JrQ1dhZTV0N1FCZm1vei9McHh1NVplT0tYWVRMOUhadmpkcFBOOW9MZlMxa1pHaHRMOVNxQlV3M2ZUZmNlc1F5N2NJb2hrTUIxWkE9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZjQXR3eXVjUzZBeWphdFBVNU9vZlpHVFZHclNrM0hqL3lYZTFYNjRCMHkrUEdhck9rZE1EZHFNMWFpaERkOEpVV3FJWmdETXUzZXU1N0xnU1I3S0ti/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndnL2xVMWJFSGNKQ1Q4Rm9ubXphUEhqeGNibjJ3YzdFOXpOZXZKNnBkQXk0K0RLWEJBbXJSa2wrbW1hYkU3VFdKSjdqNzZOdG0wTUQrY0tZcUFaM2xmWFNEdUl3bDJYWWdmU0RMdFp5ZHZ0Zz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN21yQ0NTZFR2R08weWdUbVp5K1doaU1HUmZkU3RIUjBubHljR3lyRzhJUXBwa0dUeldMVU5pV2dBUytuUE1vNGo4PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnh5TURqSjdZZkJQTGl0Zzg4QmlqRDNKT1dBM1FlL244Zi95aUxReVVJQ29EeDlqTzh2aTFxTA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-10 科教,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnlUSWZpTmtBbWFLMXVDZytrNUUySEZaMVl0UUkvTnB3RmhpQ0o5ZDR3ZXRRWk95eDJvRC9sQnBLQUNTUEUwdGNxZ1ZtSHFRTGxNejFrQ0hsc1ZxT2h6Rjgrd1RtV1NUQmZTbG1vYzVHZGxDdz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-11 戏曲,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczRpelJoS0phM0JFejluZVp6dE9Vemdxelc5eU1MU0d5TmlNc3BPVHQxVG1obUliUUIwSHVabjFhUWNpU1JhY3pRPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-11 戏曲,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUtjWS9tUWhMcCtITGl2VS9CYTdURTVBWHF2djYyWkFrVXBMWmdQZ0ZvTjkwZnBpcnlsY0hNTW1XZzRyUWl4cGl3PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-11 戏曲,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/aENpNEFMZ1BwWXpiaFNUM0MrNzB3ZC9ZZmptQTdiZlVmQlVZN2NsNVVWVDNjTGxJTU9sTk1aUEwwc2FtWnRhVzdhMmRIK05ubWpLWkNuQ2oxcHdONnhjeGNacnMxbVow/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-11 戏曲,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhWQjJqZVVFYWhka095MnFGaTZ5SWh3TmFURFNvYWNGZGt5RGFmWkRpV0R2Qy8xZk5kdHI0SA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-11 戏曲,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3JrQ1dhZTV0N1FCZm1vei9McHh1NVplT0tYWVRMOUhadXJzZTN3dWNTdnhMQWxod2t4Ymc3WGZ1QWRDRlI3OFpCVGp1NGJNVGE4ckFrYnZzcGxidXp4/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-11 戏曲,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhMK0Nhbjltc0RVbis5TE5vbXZ2M3hRV3hJMkV6MDNDZElxVVVTWTYzZ1VhcnZNencrNW5NQ3RqS3hwRy85UkZ5RUhSejFkRnVpSW9pbkcrVUIwS0JnOHVCeS8yNWRuTWdaRDF6Sy9naXdQUT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-11 戏曲,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnpDZk5JM05PM1JOLzJuaHVZWUVnV2dSUnZuTEdEVCtwRW1ua0FIeGErbjZwMitacms4b2tJU3F4TkxrV0RGN0xZPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M08zNEdzaFEzbkdZTi8zcUg3SVJkQmhVPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNZNm9lUDBwYTJwaXhndVpqeWhVTEpXV0huSWxXUFAyUg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0I2NUVVemVBaVdmUDE4NDJMd2E2VDhqQ3RCeE9YNW1iK2IxVjR0VTV0YUk5eUhINXl6cXJxMw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjJycCtQYzlzSm1YMVcxRGtCL24yVHJHSFBBR3Z3UXRqYjZlTkpDS3ZrSmwvY1EzdlpwMkNmV2g1RUtTQWlDZTlJPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y1p1eWhDTHVneStJYjdUYUJLOUprZS95cHhsWWFVM21mQngzNTQ4R0pmUkdJMFlaU0tLQzNXUGFEODdsTjBobWUwV1IzQlFNbkZNPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Znpta1NTM0ZqVktsOUNuc1BrcWtCOWdGZzIra1V1S2ZkZkZJMlR3eUtKRGx3cnBRWEpVL2QvamQwL0hBYzYxVCtBPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhLaWRIK0dONHc4dExnQXl1eEt1eWVMVVdnZE0wOTZKempGNkZVZ2UwSXh0NnNaT3dkd09OdXRNalBXMDRkNk5GZE1lR3NwQ2tMcE82cHZwUUkweDYzamczamxSV0JkK3pOOGNkbXM5N0syZz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnh5TURqSjdZZkJQTGl0Zzg4QmlqRDNKTVUzS1pRWFlrUmZ4UklFMTd1Q2dxRWNuK0ltTFVKQQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-12 社会与法,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnpkM3BlMTY3akZOT3NaUkdiSm5GM3RTT2IvcVpIUTg1TFdNNzJlOW53Z2ZlSXpVSzZMak03Q2crcHJaK2ZST2U5UTgydFcyZkpCRytDTkNYR0dHY1RFRi83TllnM283Q2M2Y2VmZ0JLNktzdz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-13 新闻,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M08xMk15YWFKL05xWm4yWVlCOWlhNFMwPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-13 新闻,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhyRnIrV0M3OVRGSFkzWm1FK00vT1dXR0FXeUZydXFRSk1VQXBWYklsSWtJd2FwR1E4cHBXRQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-13 新闻,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjJycCtQYzlzSm1YMVcxRGtCL24yVHJHSFBBR3Z3UXRqYjZlTkpDS3ZrSmw3NzlMeEJnR0pUcCtXTlA1NUhMa0xrPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-13 新闻,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25Oczk4aFJ4aTE2b2x0TDNkUmI0MnVQQjRQR2pDYmhCOHVSeFhkSUJQUDFOQ2x3M0I5eDdka0hkT29EbHBVYlBNPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-13 新闻,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzkzQ2M5TTJkMlZySDFwWkdweS94WUROdU1zaGhsbHNsNTVmNFdWT25pbWJIVEhFbnp0eGkwdlR6VkNoeXVZL1BrPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-13 新闻,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnlTQytDNXZlQ2pGSW1GbjZCWWtYeTQrY2NMbGRJd0NuTkpnSkVPTWVURWM1ODZPaFQ3TEN0bA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-13 新闻,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkplNEtYK1F1N0dWWGh2NmFRVTFLNFlTR3pCMHBvL3ZTQQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-13 新闻,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLy9vNW4xM3YyczZ6WlhJWGdZVTZZcHc3TFZuZE1rU0JrNVViWEdzMjRsUWgzUGpoMDRsVFZDZlJHVm1qa0NDcmdJPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3NlSyt0cHJmSTJSZytpcjcyckxJZEFFam9hazF1TjR5b2krYUJVSkNYUi9hbmo2ZW9wNFdVcW1HTXpMN0hYYmZnPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjJycCtQYzlzSm1YMVcxRGtCL24yVHJHSFBBR3Z3UXRqYjZlTkpDS3ZrSmwvYi9DWTZYL2dPTmpPMmU5MXB5MGNVPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RCd3NiMGxUSmJ3WFM2a0tITFpnWWVTRy9WTnVHNGNKZktZUURGYnJ0K25udzY2UWtCZ0xweDBiMVByeW5ZL0FOSkNzOCtwODRjc2c9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnk2SnVaYW5YT1diVkY1YzJwZE5pNndRQnYxTWxGOGNmdGtVTE9PaVpxSXRaNENaWXFzQ21zbg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczRpelJoS0phM0JFejluZVp6dE9Vemdxelc5eU1MU0d5TmlNc3BPVHQxVG1zM3VLRVMrU3g4VkwzaGxHZEpRc2FjPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnh6bjVmbVJQSlpwNWRHdkpRSlNWazU2U3ZHTnIwQjZ1dU5MZVpPbTN3NzFhZHBSd2JoOGJya2l3TkhrM0YrZ2FqVmNSbFZEQ1l0VHc9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnovZjVtWExmNWNON05MSEtKVS9OeDN1TWEzTEhEOHBQWnkwTU40RDl6UDlsVDRKNXVUSjUyYmMvZ0FFM0ZJUlFDWEJ5WndzdzE0bmpzQmxlSEo4RUQxZ0VDY3NDaXNvWGs9/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLy9vNW4xM3YyczZ6WlhJWGdZVTZZcHc3TFZuZE1rU0JrNVViWEdzMjRsUWgxYnd1YjU0WUZOTG5ROEhTek1pdWlnPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-14 少儿,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Znpta1NTM0ZqVktsOUNuc1BrcWtCOWdGZzIra1V1S2ZkZkZJMlR3eUtKRGw0OHBleGIyVi9rMExQdjBaVXFEZ1JVPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-15 音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnkzVmtoN09tUkd6NkNRYUsvSWRZcDkwSDB3MW9vNXMwYjJPb0ZsTHAyMlc0dWpZNmJiekdobXQ5dVM4WTdlU2w0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-15 音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhMK0Nhbjltc0RVbis5TE5vbXZ2M3hRV3hJMkV6MDNDZDJxaUxpbitWNE04Zkd2d0IrZDFVQVFLT2JMaFAvaFhYMTk5aDdsNnNLVTUzK2tXUXhJVEt6Z3NicEc4NVJaTytOcHo0N1g4eHZKdz09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-15 音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Znl1SWl2eDBDa2JCT2xiMVJvQ3B1KzljcWVQblU1MWVJQVpUcXdQa01xNkpkam9sTzJOVUptMmtBcElRRGhTNzZFPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-15 音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0N4RFRFWFNpcldxRDl1aWJUdWg5dm1RZ0lUeXcwcCtGL1J1eEl6VzJYa3JKVmZ1eDlVSEVYSDhPbDVBZDR4RXZQN1IvWEpLcFFXRVE9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-15 音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnlUSWZpTmtBbWFLMXVDZytrNUUySEZaMVl0UUkvTnB3RmhpQ0o5ZDR3ZXRSYVF5UzBleG1aekQzczZ6VkVSNW9uYlJSMTFqOVZwN0cvbWl4ajBzeU5hWU93c21NMmF6QVZuMlhIZkJnbHNEUT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-16 奥林匹克,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNZNm9lUDBwYTJwZzFPeW9PY0tGb0Zib0d0ZXNoV1hBVQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-16 奥林匹克,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M080OTdVZGtZVGk1WlRLYkQ4RTdKa0lBPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-16 奥林匹克,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3JrQ1dhZTV0N1FCZm1vei9McHh1NVplT0tYWVRMOUhadjlaVDMwR0hNS0hEeUdhcEVMYkcvT3FnVVpqK2E4bk1HU0hEVm1pV3Fzd2RMR3NwbkRXcERn/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-16 奥林匹克,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjM0RDVHQU0yVEtKQlNibUptNnE2WXN6dVhzLzJUS2psOTRuTUpHUG50dmxmc0NNOXpsQzYzMWxLR25aNmZML3A4PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-16 奥林匹克,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkplNEtYK1F1N0dWWGpBM1lndWdvYmNEQmdTWHBpQnUzaQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-16 奥林匹克,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Znl1SWl2eDBDa2JCT2xiMVJvQ3B1KzljcWVQblU1MWVJQngwZkNNVEZWZjE2bDZxWmZoM2xrNS9IMmdZUmhSM2k4PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-16 奥林匹克,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25Oczk4aFJ4aTE2b2x0TDNkUmI0MnVQQjRQR2pDYmhCOEQrK1NkUjlZVk8rYzA3N1picHUzc2hJREdQWThyYzBJPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-16 奥林匹克,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMGhwSFl3WVBPL2d0V1B6WGZHUnFFNVY3SEQ2azc4aXg0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Y0o1RTNxK3N2T0RCd3NiMGxUSmJ3WFM2a0tITFpnWWVTRy9WTnVHNGNKZktZUURGYnJ0K25zY3VUQUZtQ2lTbEpFN29hWUl1cGZQaTlROUk4LzRYUFE9PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczVMY2psZG9qdmw4V3VQeE1LdUwxTklwRENYY045VW8wSjhUM2ptaStTQ3dlN0tUVUw0R0JaaDVLakNhcWlsblM0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZjQXR3eXVjUzZBeWphdFBVNU9vZlpHVFZHclNrM0hqL3lYZTFYNjRCMHl5WUlyV1hTSVFYb28yNXM3NGlHRHVQR1RObVZYWTA1YXVzcUNUTUpuRVFG/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnpDZk5JM05PM1JOLzJuaHVZWUVnV2dSUnZuTEdEVCtwRW1ua0FIeGErbjZnNlh4NE5vRzNVcFJNMGNYRXdQNklrPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndnL2xVMWJFSGNKQ1Q4Rm9ubXphUEhqeGNibjJ3YzdFOXpOZXZKNnBkQXk0SGh1eXhTNkIrZU10bWZYQjRvUEN1QXhOK1lON2U2bEJSVWMwblRSOWcxbzJWOHIzOUpkZFVtdmtMaWhkMlpFUT09/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnhWQjJqZVVFYWhka095MnFGaTZ5SWhIOVNmNjR2Rm9MazhUVkJsa1ZzVEx1L2dLWjA4bjB6RA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MlpEUkJnUHUxeUxrZXNiRDlNVCs5V2lRSURnaW5peXd5MDRpSWh0aVdTV08vbDk1UTdaQmRXU3hVYTA4d3dxOGZGUDN5dG1Ja2o0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Znl1SWl2eDBDa2JCT2xiMVJvQ3B1KzljcWVQblU1MWVJQVpUcXdQa01xNkpibzNxMno3amZTT0xEWk9oV2ErUDdjPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV-17 农业农村,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczVoSjZmZGcrRkp1M0VNZ3FTbE9OMTZNWm13M3Q2WUE0Mm1sZk43cldGbjd3Tk55TzFPcHRaNA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/bHJISHhtajJnUmR6TXlKS1RDbHdReEY2cmJRbnBTc0JaT1licHdSNGtRVlRzblNkamdyemVrZ1AzY29WY2ZXKw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQjhwRWxtNlRRWVY1WGVqblJ3S1luRnp6TGxNV01ENy9NPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkplNEtYK1F1N0dWV3JkYm05RXFhSFlWZys1ZHV5aXk3Rw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M096WU1nUEJKalBqR3Y3NzY0UG8weU9nPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loRUsySzNTOEFGa1Y2VmtPbE1zdzZEZQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQXZFcndHMWpnSEMrSkowT21QNUFDSWpydmxFc3AxdkhjPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkprb2RiRy9XZjNOQ2lJelRnOHhvQmxTMFVaL0VJMHp5eQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loRTIxdnJXNWxkd3JDUm5YdU5YTFdnRg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLytJM09ZaUdEWGxsMDVSckdJWDV6alJEdDJQWThqcW13cmE2T2pRdFVSMC9OSS9Ucy90M1Uxdw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_兵器科技,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczRsZEhqbWtKSWNGZkR0RldZWWNQY05wMW5xZHkzZDZSMlEvR0c0VXJEeE8rRmFZZzJCbFJNTA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M093NjBMVGUrajl4SjRPZHBhT0F6Y1ZNPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loR3JrM0dxYWVYcjR1alFLM1NrcXZGaQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQXZFcndHMWpnSEMzTjRGbldUanlzNmZWTUZTaFR3NW5vPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLytJM09ZaUdEWGxsMDVSckdJWDV6alJEdDJQWThqcW13cmE2T2pRdFVSMC9QNVl3UHJpcjFQdA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkplNEtYK1F1N0dWVjh0cFhYTzk1ZjVmR2VnTUJsNzdCSw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkprb2RiRy9XZjNOQUd1b1pNTmI3UWhYUjVzNEIrRnZYdw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLytJM09ZaUdEWGxsMDVSckdJWDV6alJEdDJQWThqcW13cmE2T2pRdFVSMC9OZUY5UW5BcXpqYg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczRsZEhqbWtKSWNGZkR0RldZWWNQY05wMW5xZHkzZDZSMHFYcUVDUmpudU1XL1dRRWNmVGNibg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQjhwRWxtNlRRWVY2eWtJOUttaVRyWkxmbTZzTnJHbXZvPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_怀旧剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdwYXU5eHUrYmhoaldWUEVvbk9hVDkyN1EyTzV2MjAwcjNYb1BVZ0NvWDlGRXFMUGVXdUR3RA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjM0RDVHQU0yVEtKQlNibUptNnE2WXN6dVhzLzJUS2psOTRuTUpHUG50dmxWZzYySkZ1cVZlZnFXZnVDQ2JkNFVZPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M08zMFp5NXRuanEvTHUwcW13b2ZZMkRVPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLytJM09ZaUdEWGxsMDVSckdJWDV6alJEdDJQWThqcW13cmE2T2pRdFVSMC9HeUxBamkzN3lFcg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLytJM09ZaUdEWGxsMDVSckdJWDV6alJEdDJQWThqcW13cmE2T2pRdFVSMC9PbUxTWVI4Nmdsbw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loR1pEZTV0RGl4eWFnSUtkUXlFUHhlUA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkplNEtYK1F1N0dWWGtMWnlwVlVKQU5YSmRMV0cvNjQxVA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndtdFQ3SUVLRVA5VmhoeG5CR1lQN3QxaFJ5S0FvTU8xSE9nb0xXMC9tbjZFTUJteTFGL29sc0VnSFlYVlYwM3RBPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQXZFcndHMWpnSEMyVEdFUko4S2loUzFZT0hyNWtUb0I0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczRsZEhqbWtKSWNGZkR0RldZWWNQY05wMW5xZHkzZDZSM285c0FlVzhid0VlMDJ2bWZWRnl4ZQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_第一剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQjhwRWxtNlRRWVZ6K0VDVndkZFF4ZlQwOFIzQm14OFJVPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQjhwRWxtNlRRWVY5VlBBS3FCRzl6dDhqTVp5Wi9KZGxZPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLytJM09ZaUdEWGxsMDVSckdJWDV6alJEdDJQWThqcW13cmE2T2pRdFVSMC9MbXc0STNrV2Zpcw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkplNEtYK1F1N0dWVlJiV29GNDRaNy9PY0tlWHQ2RjdlSw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczRsZEhqbWtKSWNGZkR0RldZWWNQY05wMW5xZHkzZDZSM2JvRWNiOWJyZkZqbFh6WVFKVkZhdA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M080TEFja21hL2NhRFByd2ljVnZUQUFjPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loRVZjQjhiZXg1Z2VXQkd1OXdhczIrUw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQXZFcndHMWpnSEM3QThCSVZnU2lsb1pNT3dwZzlRVHZzPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loRW5FSTB0SkZFWFRTR1hCTUU2UnR0cA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkprb2RiRy9XZjNORFlhbUszL1ZJTDFYd0hSME14emo0Kw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云剧场,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEZhUlZmcHJ2aS9VeXByaVVwZXE1NlhUVlBub3BQMXArZldHanBhdi8rRUdnRFhleWYyUjI2WmEzSnBGSWN1L1VyUS9PVmxjYytuc1ViaWRYVm13NllQc1FUQmxnOXFGR0xSU3VuMlRWNVVqSEwxQjNsVXNwMG4=/VACYlPAXIvizVAezpDxuhA==/txt/2
+
+CCTV_风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/K2FNT3Q4WlFvQjM0RDVHQU0yVEtKQlNibUptNnE2WXN6dVhzLzJUS2psOTRuTUpHUG50dmxkQ0xMUXRKWUFUMzc2TlR6TTZjLzU4PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQXZFcndHMWpnSEN5M0R2WGhGajJnRzRYWHQ5VTk3d0c0PQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loRlV4dTdzZFBoTGZQUmtmVFFMZkYxVA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M08rL3pyNCsyeHJLeFRZR3VKcVJWcU9vPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczRsZEhqbWtKSWNGZkR0RldZWWNQY05wMW5xZHkzZDZSMHFITDR0N3RFSW5LVFIyMVpxMXVWWQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQjhwRWxtNlRRWVZ6ZzF3cTVuZHpFRUpJVVE1c0MvWlRvPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loRzgzVDFkQVowbmYyQnN0c2dBbjFtdw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/NWcrMVpGMFF4czVBb2JVU3U1RGdpZC9mU215MXB5VkhUV2RWa2gvZGdHdlp0QUtOQ2k2M081UUNtYlpldGNqazNnM3pTVHhsMEFnPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loRVU0dndNQVdXcFpyY2dEd3VtcVhsUA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQXZFcndHMWpnSEMxOTRFcit6bGNZbXpaUFVVUUFLcDhzPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Yml5c1FSeHZLN25RbVc2aytUYkxlNGowS3YydDdIdnNEeHUvdWZiZ1loSG1QeTAxTVo0OEhsVktwb0lLU243eA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/Vjc5eXFtcmZFa3I2aXJ0aUtQUDdKaXRmZTcvdk5KMXMzeWhCU25TZ0gvQjhwRWxtNlRRWVY4V1VZMFJaamdwY0lZbFI4MnhQMVZBPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkplNEtYK1F1N0dWVnpVdlZQcE5ZY2Yza3BiZEVHcFFDYQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QndvVHFEMjl1RXZLMXhBUGFTN2tLRkprb2RiRy9XZjNOQWxYWjJRcGZEamlLb3VISzY2bEtaZg==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLytJM09ZaUdEWGxsMDVSckdJWDV6alJEdDJQWThqcW13cmE2T2pRdFVSMC9KS2hxbmN2Um5sMQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/YzkyR0Q2U2FIczRsZEhqbWtKSWNGZkR0RldZWWNQY05wMW5xZHkzZDZSMWV5R3pVUWJSOXJPYStKaE5lbHNoNw==/VACYlPAXIvizVAezpDxuhA==/txt/2
+CCTV_风云音乐,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdwYXU5eHUrYmhoaldWUEVvbk9hVDlzUFhTRzI5algvM1lzWUYzeHd5UHZmZFJYYnZPcThvMQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
 京宝小爱,#genre#
-央视频道,#genre#
-CCTV-1,http://66.165.240.154:8080/live/jsydcctv14/hls.m3u8
-CCTV-1,http://66.165.240.154:8080/live/jsydcctv1/hls.m3u8
-CCTV-1,http://66.165.240.154:8080/live/jsydcctv15/hls.m3u8
-CCTV-1,http://154.yfvodcdn.com:8080/live/jsydcctv13/hls.m3u8
-CCTV-1,http://154.yfvodcdn.com:8080/live/jsydcctv1/hls.m3u8
-CCTV-1,http://154.yfvodcdn.com:8080/live/jsydcctv14/hls.m3u8
-CCTV-1,http://154.yfvodcdn.com:8080/live/jsydcctv10/hls.m3u8
-CCTV-1,http://154.yfvodcdn.com:8080/live/jsydcctv15/hls.m3u8
-CCTV-1,http://121.24.98.3:8090/hls/9/index.m3u8
-CCTV-1,http://222.137.229.88:808/hls/1/index.m3u8
-CCTV-2,http://154.yfvodcdn.com:8080/live/jsydcctv2/hls.m3u8
-CCTV-2,http://66.165.240.154:8080/live/jsydcctv2/hls.m3u8
-CCTV-2,http://113.206.179.208:8003/udp/225.0.4.132:7980
-CCTV-2,http://111.199.239.109:3568/rtp/239.3.1.60:8084
-CCTV-2,http://115.60.241.249:2000/rtp/225.1.4.74:1103
-CCTV-2,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
-CCTV-2,http://222.137.229.88:808/hls/2/index.m3u8
-CCTV-2,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225487/index.m3u8
-CCTV-3,http://66.165.240.154:8080/live/jsydcctv3/hls.m3u8
-CCTV-3,http://154.yfvodcdn.com:8080/live/jsydcctv3/hls.m3u8
-CCTV-3,http://111.126.92.29:808/hls/103/index.m3u8
-CCTV-3,http://113.110.72.82:8090/hls/115/index.m3u8
-CCTV-3,http://106.8.127.11:4022/rtp/239.254.201.152:7205
-CCTV-3,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
-CCTV-3,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225558/index.m3u8
-CCTV-4,http://66.165.240.154:8080/live/jsydcctv4/hls.m3u8
-CCTV-4,http://154.yfvodcdn.com:8080/live/jsydcctv4/hls.m3u8
-CCTV-4,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-4,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225493/index.m3u8
-CCTV-5,http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
-CCTV-5,http://66.165.240.154:8080/live/jsydcctv5/hls.m3u8
-CCTV-5,http://154.yfvodcdn.com:8080/live/jsydcctv5/hls.m3u8
-CCTV-5,http://154.yfvodcdn.com:8080/live/jsydcctv5p/hls.m3u8
-CCTV-5,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
-CCTV-5,http://114.250.93.106:8686/rtp/239.3.1.130:8004
-CCTV-5,http://114.249.18.134:4022/rtp/239.3.1.173:8001
-CCTV-5,http://222.137.229.88:808/hls/5/index.m3u8
-CCTV-5,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8
-CCTV-5,http://124.64.236.210:8012/rtp/239.3.1.130:8004
-CCTV-5+,http://66.165.240.154:8080/live/jsydcctv5p/hls.m3u8
-CCTV-5+,http://154.yfvodcdn.com:8080/live/jsydcctv5p/hls.m3u8
-CCTV-5+,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-CCTV-5+,https://cntv.lat/tv/live.php?auth=231110&id=cctv5p
-CCTV-5+,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
-CCTV-6,http://66.165.240.154:8080/live/jsydcctv6/hls.m3u8
-CCTV-6,http://154.yfvodcdn.com:8080/live/jsydcctv6/hls.m3u8
-CCTV-6,http://114.243.108.225:4000/rtp/239.3.1.174:8001
-CCTV-6,http://114.249.18.134:4022/rtp/239.3.1.174:8001
-CCTV-6,http://123.113.248.110:8888/rtp/239.3.1.174:8001
-CCTV-6,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225495/index.m3u8
-CCTV-6,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
-CCTV-7,http://66.165.240.154:8080/live/jsydcctv7/hls.m3u8
-CCTV-7,http://154.yfvodcdn.com:8080/live/jsydcctv7/hls.m3u8
-CCTV-7,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
-CCTV-7,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV-7,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225496/index.m3u8
-CCTV-7,https://cntv.lat/tv/live.php?auth=231110&id=cctv7
-CCTV-7,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
-CCTV-8,http://66.165.240.154:8080/live/jsydcctv8/hls.m3u8
-CCTV-8,http://154.yfvodcdn.com:8080/live/jsydcctv8/hls.m3u8
-CCTV-8,http://222.128.86.76:8133/rtp/239.3.1.175:8001
-CCTV-8,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
-CCTV-8,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
-CCTV-8,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV-8,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225602/index.m3u8
-CCTV-9,http://66.165.240.154:8080/live/jsydcctv9/hls.m3u8
-CCTV-9,http://114.98.189.107:2000/rtp/238.1.78.240:7792
-CCTV-9,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-CCTV-9,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225497/index.m3u8
-CCTV-9,http://154.yfvodcdn.com:8080/live/jsydcctv9/hls.m3u8
-CCTV-10,http://66.165.240.154:8080/live/jsydcctv10/hls.m3u8
-CCTV-10,http://154.yfvodcdn.com:8080/live/jsydcctv10/hls.m3u8
-CCTV-10,http://115.60.241.249:2000/rtp/225.1.4.78:1107
-CCTV-10,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
-CCTV-10,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225866/index.m3u8
-CCTV-10,http://171.221.58.141:4000/udp/239.93.1.63:5140
-CCTV-10,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
-CCTV-11,http://66.165.240.154:8080/live/jsydcctv11/hls.m3u8
-CCTV-11,http://154.yfvodcdn.com:8080/live/jsydcctv11/hls.m3u8
-CCTV-11,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225501/index.m3u8
-CCTV-11,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225701/index.m3u8
-CCTV-11,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225702/index.m3u8
-CCTV-12,http://66.165.240.154:8080/live/jsydcctv12/hls.m3u8
-CCTV-12,http://154.yfvodcdn.com:8080/live/jsydcctv12/hls.m3u8
-CCTV-12,http://114.249.18.134:4022/rtp/239.3.1.64:8124
-CCTV-12,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
-CCTV-12,https://cntv.lat/tv/live.php?auth=231110&id=cctv12
-CCTV-12,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
-CCTV-13,http://66.165.240.154:8080/live/jsydcctv13/hls.m3u8
-CCTV-13,http://154.yfvodcdn.com:8080/live/jsydcctv13/hls.m3u8
-CCTV-13,http://61.51.142.149:8888/rtp/239.3.1.124:8128
-CCTV-13,http://mail.petzhu.top:7000/rtp/239.254.200.9:8264
-CCTV-13,http://pwd.unnas.top:4000/rtp/239.253.92.13:8008
-CCTV-13,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
-CCTV-13,http://stream.smntv.cn/smtv1/sd/live.m3u8
-CCTV-13,http://113.110.72.82:8090/hls/125/index.m3u8
-CCTV-13,http://gmxw.7766.org:808/hls/31/index.m3u8
-CCTV-13,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225510/index.m3u8
-CCTV-14,http://66.165.240.154:8080/live/jsydcctv14/hls.m3u8
-CCTV-14,http://154.yfvodcdn.com:8080/live/jsydcctv14/hls.m3u8
-CCTV-14,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
-CCTV-14,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225513/index.m3u8
-CCTV-14,https://cntv.lat/tv/live.php?auth=231110&id=cctv14
-CCTV-14,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
-CCTV-15,http://66.165.240.154:8080/live/jsydcctv15/hls.m3u8
-CCTV-15,http://154.yfvodcdn.com:8080/live/jsydcctv15/hls.m3u8
-CCTV-15,http://221.15.6.153:8888/rtp/225.1.4.216:1269
-CCTV-15,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
-CCTV-15,http://110.7.130.123:8096/tsfile/live/0014_2.m3u8
-CCTV-15,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225705/index.m3u8
-CCTV-15,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225706/index.m3u8
-CCTV-15,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225515/index.m3u8
-CCTV-16,http://nas147.myds.me:8888/udp/239.77.1.98:5146
-CCTV-16,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
-CCTV-16,https://cntv.lat/tv/live.php?auth=231110&id=cctv16
-CCTV-16,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226309/index.m3u8
-CCTV-16,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
-CCTV-16-4K,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-CCTV-17,http://183.204.13.237/61.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
-CCTV-17,http://stream1.jlntv.cn/xcpd/sd/live.m3u8
-CCTV-17,http://218.13.170.98:9901/tsfile/live/0016_1.m3u8
-CCTV-17,https://cntv.lat/tv/live.php?auth=231110&id=cctv17
-CCTV-17,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
-京宝小爱,#genre#
+xuekRyRlhUb0VmWVdzb21zPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+央视台球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TWw5YjFQWGx6NEdPblFINkd1OGo4cHkxOEZOa294cFVtd2E0TXMyYm9sWEI0VVpJK1JEc2E3OTFzdHA0ZWFjZktlemhxbTdlMTFZPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5Qnp3NHdMYVB1Ly9sclF6NTB4eFRBeWxybjArZ3dxZzZUVEMzTGJpT2xGMXE1TW56Qzd1ZGhDTGd1Y3hkRHd0VHpJPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3ZjQXR3eXVjUzZBeWphdFBVNU9vZlpHVFZHclNrM0hqK0xsNXFxNm1CYjgySXJWRjZPNzN5ekJ2RzZxczN4ZkpwUm52ZlN2dCtXQ1pvZHdGQzZUbi96/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnkzVmtoN09tUkd6NkNRYUsvSWRZcDkwSDB3MW9vNXMwYklveGZTVm5rUEVoQmhHc1c0a2d5TDJLdmJ2dkFCcTJzPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/dDQzNWh4UWkrK3RaUSt6Y2p4OUYyWkd1L2x1elFPVmxscnM4SjhSODdsMk9HREFlQ0dkL2pZWkwvc1JTMG1nOVdmTzl6MVhZQnZzPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/VjVmVTZRTEZuK3RYRW1tcVZPZlFQQks2UERmMVg4THdqclRPQ3huTFVUSy9rODdZWldwSDk1dm9zRXhQSE50TjRuOWFwL3pvUTdBPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/MXRlWWdKaTE5QnkzVmtoN09tUkd6NkNRYUsvSWRZcDlZU1g2Rk85ZWZPQS8xZ2MrQ2thbzdCR1ZPUXV6bDB2dThWZVNXbEF1YnpJPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzg4U2RoakRWc1V4Y0dwS1VTU3dqMk5vRGRFQ1dQeWF4RTRNZlRmS2ZNZXc1MzJad2d5Q1hXcA==/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/a3pCV25Hc1QyLzg4U2RoakRWc1V4Y0dwS1VTU3dqMk5vRGRFQ1dQeWF4RTRNZlRmS2ZNZXc4ekl6Nks0WUlLYmd1VzZQbWRhbVd6YkkzdlgzeHFUY1dBNHZTQnhiUDljUXJlUFVBUGhEWmM9/VACYlPAXIvizVAezpDxuhA==/txt/2
+风云足球,http://centos.yjxfz.com:80/ShenQiHelper/tv/play/TENuMHlKbWU3Znl1SWl2eDBDa2JCT2xiMVJvQ3B1KzljcWVQblU1MWVJQngwZkNNVEZWZjF6Q2FGdHlsNy8zVlk3SkZsZzJrMUIwPQ==/VACYlPAXIvizVAezpDxuhA==/txt/2
 
 卫视频道,#genre#
 上海卫视,http://219.145.93.74:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
