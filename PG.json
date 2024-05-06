@@ -3,8 +3,9 @@
     {
       "key": "点播源",
       "name": "点播源",
-      "type": 0,
+      "type": 1,
       "api": "https://czzy.top/api.php/provide/vod/at/xml/",
+      "playUrl": "https://json.xn--cerrw216dja891if19b.xn--fiqs8s/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
