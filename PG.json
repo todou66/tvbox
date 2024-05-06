@@ -4,7 +4,7 @@
       "key": "点播源",
       "name": "点播源",
       "type": 0,
-      "api": "http://47.120.79.219:37667/api.php/provide/vod/at/xml/",
+      "api": "https://czzy.top/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
