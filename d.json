@@ -3,17 +3,17 @@
 {
 "wallpaper":"./t/",
 "spider":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21","warningText":"欧歌提示:
-📢新感觉TV专用接口 
-📢长期维护放心购买",
+📢小爱TV专用接口 
+📢关注公众号",
 
 "lives":[{"name":"live","type":0,"url":"http://27.54.236.201:88/app/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
 
 "sites": [
-{"key":"豆瓣2","name":"📢新感觉TV┃自建","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"📢小爱TV┃自建","type":3,"api":"csp_Douban","searchable":0},
 
    {
       "key": "新感觉",
-      "name": "📺新感觉┃自建4K",
+      "name": "📺小爱┃自建4K",
       "type": 1,
       "api": "http://27.54.236.201/api.php/provide/vod/",
       "playUrl": "json:http://27.54.236.201:1122/?url=",
@@ -24,8 +24,8 @@
     },
 
 
-//{"key":"量子资源","name":"🎀新感觉➀号","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"非凡资源","name":"🎀新感觉➁号","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+//{"key":"量子资源","name":"小爱➀号","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"非凡资源","name":"小爱➁号","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
  
 
@@ -34,11 +34,11 @@
 
 //py
 
-{"key":"py_cctv","name":"新感觉备用接口","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://tv.nxog.top/m/py/py_cctv.json"},
-{"key":"py_m1905","name":"新感觉备用➂","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://tv.nxog.top/m/py/m1905.json"},
-{"key":"py_返老还童","name":"新感觉动漫","type":3,"api":"py_kt30","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://tv.nxog.top/m/py/py_kt30.json"},
-{"key":"豆瓣3","name":"📢新感觉TV专用接口","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣4","name":"📢长期维护放心购买","type":3,"api":"csp_Douban","searchable":0}
+{"key":"py_cctv","name":"小爱备用接口","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://tv.nxog.top/m/py/py_cctv.json"},
+{"key":"py_m1905","name":"小爱备用➂","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://tv.nxog.top/m/py/m1905.json"},
+{"key":"py_返老还童","name":"小爱动漫","type":3,"api":"py_kt30","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://tv.nxog.top/m/py/py_kt30.json"},
+{"key":"豆瓣3","name":"📢小爱TV专用接口","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣4","name":"📢长期维护放心","type":3,"api":"csp_Douban","searchable":0}
 
 ],
 
