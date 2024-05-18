@@ -1,10 +1,16 @@
-// qq:8894382 整合本接口
-
 {
-"wallpaper":"./t/",
-"spider":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21","warningText":"欧歌提示:
-📢小爱TV专用接口 
-📢关注公众号",
+    "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1708940933062/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
+    "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
+    "sites": [
+        {
+            "key": "土豆",
+            "name": "关注公众号【京宝小爱】",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
 
 "lives":[{"name":"live","type":0,"url":"http://27.54.236.201:88/app/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
 
