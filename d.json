@@ -12,6 +12,12 @@
             "filterable": 0
         },
 
+{
+"wallpaper":"./t/",
+"spider":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21","warningText":"欧歌提示:
+📢小爱TV专用接口 
+📢关注公众号",
+
 "lives":[{"name":"live","type":0,"url":"http://27.54.236.201:88/app/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"https://epg.imxd.top/?ch={name}&date={date}","logo": "https://live.imxd.top/logo/{name}.png"}],
 
 "sites": [
