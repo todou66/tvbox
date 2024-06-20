@@ -1,30 +1,24 @@
 {
-  "spider": "",
-      "wallpaper": "",
-   "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "http://124.223.177.85:99/A接口/mmm.json",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
-  "warningText": "天天开心呢",
-  "sites": [
-   
-   {
+ "spider":"https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/spider.jar",
+  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+"sites": [
+  
+     {
       "key": "豆豆",
-      "name": "｜豆瓣推荐",
+      "name": "豆瓣",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "jar": "https:fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706541296276/fan.txt;md5;c909e1c1f4523de628060118021ce9ba"
+      "filterable": 0
     },
-    
+     {
+      "key": "搜索┃豆瓣js",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "https://pan.shangui.cc/f/8yzSo/drpy2.min.js",
+      "ext": "https://pan.shangui.cc/f/54MbUA/douban.js"
+    },
 		
 		{
       "key": "csp_Panda_玩偶哥哥",
